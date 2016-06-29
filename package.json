@@ -1,5 +1,5 @@
 {
-  "name": "agar-clone",
+  "name": "Blob.IO",
   "version": "1.0.0",
   "description": "A simple Agar.io clone",
   "main": "server/server.js",
